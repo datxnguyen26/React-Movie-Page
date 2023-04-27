@@ -20,7 +20,7 @@ const App = () => {
     }, []);
     return (
         <div className = "app">
-            <h1>Dat Movie Site</h1>
+            <h1>Movie City</h1>
             <div className="search">
                 <input
                     placeholder="Search for movies"
